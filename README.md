@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Cloud Engineering (AWS)<br>🎲 Fun fact: I have a degree in Mathematics and Computer Science.<br><br>How to reach me: kihongegrace4549@gmail.com</p>
+<p align="left">📚 I'm currently learning Cloud Engineering (AWS),Typescript, MongoDB <br>🎲 Fun fact: I have a degree in Mathematics and Computer Science.<br><br>How to reach me: kihongegrace4549@gmail.com</p>
 
 ###
 
